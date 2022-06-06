@@ -1,0 +1,32 @@
+        table {
+            margin: 0 auto;
+            margin-top: 10px;
+            width: 50%;
+            height: 35%;  
+            display: block;
+            overflow-x: auto;
+            border-spacing: 0;          
+        }
+
+        .container {
+            font-family: 'Noto Sans', sans-serif;
+            margin-top: 20px;              
+        }
+
+        th {
+            height: 30px;
+            text-align: center;
+            font-weight: 700;
+        }
+
+        td {
+            height: 100px;
+            text-align: center;
+            font-size: 20px;
+        }
+
+        p {
+            font-size: medium;
+            text-align: justify;
+        }
+    
